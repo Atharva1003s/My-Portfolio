@@ -35,6 +35,14 @@ const PROJECTS = [
     date: 'Oct 2025 – Jun 2026',
     code: '#',
   },
+  {
+    title: '🎥 AI YouTube Video Analyzer',
+    desc: 'An intelligent, end-to-end multi-agent AI assistant designed to extract, organize, and analyze content directly from any YouTube video link—transforming long hours of footage into precise, structured insights in seconds.',
+    ss: null,
+    tech: ['Python' , 'Agno (Phidata) ' , 'Groq API' , 'Llama 3.3 70B' , 'Streamlit' , 'SQLite' , 'Dotenv' , 'Jupyter Notebook'],
+    date: 'July 2026 – July 2026',
+    code: 'https://github.com/Atharva1003s/AI-YouTube-Video-Analyzer-',
+  },
 ]
 
 export default function Projects() {
