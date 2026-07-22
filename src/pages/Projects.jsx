@@ -39,9 +39,17 @@ const PROJECTS = [
     title: '🎥 AI YouTube Video Analyzer',
     desc: 'An intelligent, end-to-end multi-agent AI assistant designed to extract, organize, and analyze content directly from any YouTube video link—transforming long hours of footage into precise, structured insights in seconds.',
     ss: null,
-    tech: ['Python' , 'Agno (Phidata) ' , 'Groq API' , 'Llama 3.3 70B' , 'Streamlit' , 'SQLite' , 'Dotenv' , 'Jupyter Notebook'],
+    tech: ['Python' , 'Agno (Phidata) ' , 'Groq API' , 'Llama 3.3 70B' , 'Streamlit' , 'SQLite' , 'Dotenv' , 'Jupyter Notebook' ,],
     date: 'July 2026 – July 2026',
     code: 'https://github.com/Atharva1003s/AI-YouTube-Video-Analyzer-',
+  },
+   {
+    title: '🎬 AI-Powered Sentiment Analyzer',
+    desc: 'Developed an end-to-end Machine Learning NLP web application to classify movie review sentiments, helping platforms automatically analyze user feedback and quantify viewer reception in real time.',
+    ss: null,
+    tech: ['Python' , 'PyTorch' , 'Streamlit' , 'NLP' , 'RNN' ,'NLTK' , 'Scikit-learn (TF-IDF)' , 'Pickle' , 'Jupyter Notebook' , 'HTML/CSS'],
+    date: 'July 2026 – July 2026',
+    code: 'https://github.com/Atharva1003s/Sentiment-Analyzer',
   },
 ]
 
