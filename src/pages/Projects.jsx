@@ -51,6 +51,23 @@ const PROJECTS = [
     date: 'July 2026 – July 2026',
     code: 'https://github.com/Atharva1003s/Sentiment-Analyzer',
   },
+  {
+    title: '🩺 Medical Insurance Cost Predictor',
+    desc: 'Developed an end-to-end Machine Learning regression application to estimate individual medical insurance charges based on key health and demographic factors, enabling users and insurers to forecast healthcare expenses with high accuracy.',
+    ss: null,
+    tech: ['Python' , 'Scikit-learn' , 'Streamlit' , 'Pandas' , 'NumPy' ,'Plotly' , 'Jupyter Notebook'],
+    date: 'July 2026 – July 2026',
+    code: 'https://github.com/Atharva1003s/Medical-Insurance-Cost-Prediction',
+  },
+  {
+    title: '👥 Employee Attrition Predictor',
+    desc: 'Developed an end-to-end Machine Learning web application utilizing the IBM HR Analytics dataset to predict workforce attrition, enabling HR teams and organizations to identify flight risks and improve talent retention proactively.',
+    ss: null,
+    tech: ['Python' , 'Scikit-learn' , 'Streamlit' , 'Pandas' , 'NumPy' ,'Plotly' , 'Jupyter Notebook'],
+    date: 'July 2026 – July 2026',
+    code: 'https://github.com/Atharva1003s/Employee-Attrition-Predictor',
+  },
+  
 ]
 
 export default function Projects() {
